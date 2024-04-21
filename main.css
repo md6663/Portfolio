@@ -1,0 +1,135 @@
+html, body{ 
+height: 100%;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+    min-height: 100%;
+    background-color: #FFFDEC;
+}
+.header{
+    background-color: #323131;
+    height: 87PX;
+}
+.navbar-nav{ 
+    font-size: 100%;
+}
+.nav-item{
+margin-right: 35px; ;
+}
+.banner{
+   height: 385px; 
+   background-color: #000000;
+margin-top: 40px;
+border-radius:55px ;
+background-image:url("C:/Users/md/Documents/img/siteportfolio/Images for Site/Images for Site/back.png") ;
+background-repeat: no-repeat;
+color: #ffffff;
+text-align: right;
+}
+.gameTitle{
+  display:flex;
+  flex-direction: column;
+    align-items: flex-end;
+}
+.banner h2 {
+
+    font-size: 32px;
+    font-weight: 700;
+   margin-bottom: 22px; ;
+}
+.banner p{
+    font-size: 13px;
+   font-weight:300;
+}
+.text{
+    padding-bottom: 63px;
+    padding-right: 95px;
+}
+.btn{
+    width: 250px;
+    border-radius: 15px;
+    font-weight: 700;
+}
+.facultet{
+    margin-top: 63px;
+ height:230px ;
+    
+}
+.facultet img{
+margin: 40px 0 40px 40px;
+height: 150px;
+
+}
+.facultet h3{
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    font-size: 24px;
+    font-weight: 700;
+    color: #B24B11;
+}
+.facultet p{
+   margin-left: 35px; 
+   font-size: 14px;
+
+}
+.choice h1{
+    font-size: 32px;
+    font-weight: 700;
+    color:#B24B11;
+    margin-top:100px;
+}
+.choice img{
+    margin-top: 40px;
+}
+.choice p{
+    font-style: italic;
+    font-size: 14px;
+    margin-top:40px ;
+}
+.write{
+    margin-top:15px ;
+    width: 345px;
+    height: 35px;
+    border-radius: 25px;
+    border-color:#B24B11 ;
+    padding-left: 20px;
+}
+.itogBtn {
+    border-radius: 15px;
+    height: 37px;
+   background-color: #FFCB65;
+font-weight: 700;
+width: 190px;
+margin-top:40px;
+}
+.itog{
+   height: 300px;
+   border-radius: 40px;
+   margin-top: 40px; 
+   padding: 30px;
+
+}
+.about h1{
+    font-size: 32px;
+    font-weight: 700;
+    color:#B24B11;
+    margin-top:100px;
+}
+.about p{
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.footer{
+    background-color: #323131;
+    height: 87PX;
+}
+.footer p{
+    color: #ffffff;
+    margin-top: 35px;
+    font-style: italic;
+}
+.footer img{
+    margin-top:10px;
+}
